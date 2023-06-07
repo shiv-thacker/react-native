@@ -17,7 +17,7 @@ import Boxabsolute from './src/screens/Boxabsolute';
 import Randomcomponent from './src/screens/project/Randomcolor';
 import Hookeffect from './src/screens/project/Hookeffect';
 import Loginscreen from './src/screens/Loginscreen';
-import Reduxcounter from './src/screens/Redux';
+import Reduxcounter from './src/reduxstore/reducers/Redux';
 import CompoZ from './src/Contextexample/CompoZ';
 import CompoA from './src/Contextexample/CompoA';
 import Asyncexample from './src/screens/AsyncCounter';
